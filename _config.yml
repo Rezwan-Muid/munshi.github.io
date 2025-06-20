@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Passport Sized Image.jpg"
+  avatar           : "profile_picture.jpg"
   name             : "Munshi Rejwan Ala Muid"
-  pronouns         : "he/hiss"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Virginia Tech"
