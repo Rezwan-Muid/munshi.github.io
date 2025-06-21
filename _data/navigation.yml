@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: "/files/Munshi CV.pdf"
+    url: /files/Munshi CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
