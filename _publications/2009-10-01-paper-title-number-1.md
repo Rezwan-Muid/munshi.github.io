@@ -8,9 +8,6 @@ authors:
   - Munshi Rejwan Ala Muid
   - Taejoong Chung
   - Thang Hoang
-slidesurl: 'http://rezwan-muid.github.io/files/accurevokeslide.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/11023290'
-bibtexurl: 'http://rezwan-muid.github.io/files/accurevoke.bib.zip'
 permalink: false
 ---
 
