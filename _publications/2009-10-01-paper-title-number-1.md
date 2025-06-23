@@ -5,7 +5,7 @@ category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
 date: 05-12-2025
 venue: '2025 IEEE Symposium on Security and Privacy (SP)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://github.com/Rezwan-Muid/rezwan-muid.github.io/blob/master/files/accurevokeslide.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11023290'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
