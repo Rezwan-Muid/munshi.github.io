@@ -3,7 +3,6 @@ title: "AccuRevoke: Enhancing Certificate Revocation with Distributed Cryptograp
 collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 05-12-2025
 venue: '2025 IEEE Symposium on Security and Privacy (SP)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
