@@ -20,12 +20,45 @@ redirect_from:
 
 
 
-## 📜 News
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+## 🗞️ News
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+<style>
+.update-block {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.update-date {
+  min-width: 100px;
+  font-family: monospace;
+  font-weight: bold;
+}
+</style>
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+<div class="update-block">
+  <div class="update-date">May 30 2025</div>
+  <div>Presented our paper <strong>AccuRevoke</strong> at <strong>IEEE S&P 2025</strong> in San Francisco, CA.</div>
+</div>
+
+<div class="update-block">
+  <div class="update-date">Apr 05 2025</div>
+  <div>My paper <strong>AccuRevoke</strong> was accepted to <strong>IEEE Symposium on Security & Privacy 2025</strong>.</div>
+</div>
+
+<div class="update-block">
+  <div class="update-date">Jan 15 2025</div>
+  <div>Started internship discussions with Cloudflare Research on cryptographic revocation techniques.</div>
+</div>
+
+<div class="update-block">
+  <div class="update-date">Oct 10 2024</div>
+  <div>Published blog on <strong>Zero-Knowledge Email Authentication</strong> and privacy-preserving metadata protection.</div>
+</div>
+
+<div class="update-block">
+  <div class="update-date">Aug 23 2023</div>
+  <div>Started Ph.D. in Computer Science at <strong>Virginia Tech</strong>, co-advised by <a href="https://thanghoang.github.io" target="_blank">Dr. Thang Hoang</a> and <a href="https://taejoong.github.io" target="_blank">Dr. Taejoong Chung</a>.</div>
+</div>
 
 
 
