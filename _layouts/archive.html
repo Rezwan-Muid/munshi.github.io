@@ -1,20 +1,24 @@
-{% assign post = include.post %}
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+---
+layout: default
+---
 
-  {% if post.title %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == "teaching" and post.permalink == false %}
-        {{ post.title }}
-      {% else %}
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {% endif %}
-    </h2>
-  {% endif %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
 
-  {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">
-      {{ post.excerpt | markdownify | strip_html | strip_newlines }}
-    </p>
-  {% endif %}
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
-</article>
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+</div>
