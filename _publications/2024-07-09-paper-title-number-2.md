@@ -17,5 +17,4 @@ authors:
 
 📄 [Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJMEI.2024.139883)  
 📚 [BibTeX](http://rezwan-muid.github.io/files/cloud-blockchain.bib)
-
 💻 [Source Code](https://github.com/Rezwan-Muid/Data-de-identification-of-data-in-a-docx-file)
