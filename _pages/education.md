@@ -1,8 +1,26 @@
 ---
 title: "Education"
-layout: archive
-collection: education
+layout: single
 permalink: /education/
 author_profile: true
-entries_layout: list
 ---
+
+## 🎓 Education
+
+<div class="archive__item">
+  <h2 class="archive__item-title">PhD in Computer Science</h2>
+  <p><i>Virginia Tech, Blacksburg, VA, USA</i></p>
+  <p><strong style="color:#2a7ae2;">Aug 2023 – Present</strong></p>
+  <p><strong>CGPA:</strong> 4.00/4.00</p>
+  <p><strong>Courses:</strong> Blockchain Technologies, Advanced Topics in Systems (Network Security), System and Software Security, Fundamentals of Information Security (Cryptography Focus), Advanced Topics in Data and Information, Advanced Topics in HCI (User Privacy Focus), Ethics and Professionalism in CS, Statistics in Research.</p>
+</div>
+
+<br/>
+
+<div class="archive__item">
+  <h2 class="archive__item-title">BSc in Computer Science and Engineering</h2>
+  <p><i>Islamic University of Technology (IUT), Bangladesh</i></p>
+  <p><strong style="color:#2a7ae2;">2017 – 2021</strong></p>
+  <p><strong>CGPA:</strong> 3.92/4.00</p>
+  <p><strong>Notable Achievements:</strong> Ranked 2nd in class, Dean's List recipient, Undergraduate thesis in applied cryptography</p>
+</div>
