@@ -25,7 +25,7 @@ author_profile: true
 <div class="archive__item">
   <h2 class="archive__item-title">BSc in Computer Science and Engineering</h2>
   <p><i>Islamic University of Technology (IUT), Bangladesh</i></p>
-  <p><strong style="color:#2a7ae2;">2017 – 2021</strong></p>
+  <p><strong style="color:#2a7ae2;">Jan 2017 – Apr 2021</strong></p>
   <p><strong>CGPA:</strong> 3.82/4.00</p>
   <p><strong>Notable Achievements:</strong> Graduated with First Class Honors (CGPA > 3.75)</p>
 </div>
