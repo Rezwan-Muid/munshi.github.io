@@ -2,7 +2,7 @@
 title: "AccuRevoke: Enhancing Certificate Revocation with Distributed Cryptographic Accumulators"
 collection: publications
 category: manuscripts
-permlink: ""
+permalink: ""  # corrected spelling from permlink
 excerpt: ""
 date: 2025-05-12
 venue: 'IEEE Symposium on Security and Privacy (S&P)'
@@ -11,10 +11,10 @@ authors:
   - Taejoong Chung
   - Thang Hoang
 ---
-**Authors:** Munshi Rejwan Ala Muid, Taejoong Chung, Thang Hoang 
 
+**Authors:** Munshi Rejwan Ala Muid, Taejoong Chung, Thang Hoang  
 
 📄 [Paper](http://rezwan-muid.github.io/files/AccuRevoke_Enhancing_Certificate_Revocation_with_Distributed_Cryptographic_Accumulators.pdf)  
 ⬇️ [Slide](http://rezwan-muid.github.io/files/accurevokeslide.pdf)  
-📚 [BibTeX](http://rezwan-muid.github.io/files/accurevoke.bib.zip)
+📚 [BibTeX](http://rezwan-muid.github.io/files/accurevoke.bib.zip)  
 💻 [Source Code](https://accurevoke.netsecurelab.org)
