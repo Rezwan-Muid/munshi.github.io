@@ -36,30 +36,23 @@ redirect_from:
 </style>
 
 <div class="update-block">
-  <div class="update-date">May 30 2025</div>
+  <div class="update-date">May 12 2025</div>
   <div>Presented our paper <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a627/26hiTQkK8bC" target="_blank"><strong>AccuRevoke</strong></a> at <strong>IEEE S&P 2025</strong> in San Francisco, CA.</div>
 </div>
 
 
 <div class="update-block">
-  <div class="update-date">Apr 05 2025</div>
+  <div class="update-date">Mar 10 2025</div>
   <div>My paper <strong>AccuRevoke</strong> was accepted to <strong>IEEE Symposium on Security & Privacy 2025</strong>.</div>
 </div>
 
 <div class="update-block">
-  <div class="update-date">Jan 15 2025</div>
-  <div>Started internship discussions with Cloudflare Research on cryptographic revocation techniques.</div>
+  <div class="update-date">Mar 20 2025</div>
+  <div>Passed Ph.D. Qualifier in ExamSystems, Networking, and Cybersecurity domain</div>
 </div>
 
-<div class="update-block">
-  <div class="update-date">Oct 10 2024</div>
-  <div>Published blog on <strong>Zero-Knowledge Email Authentication</strong> and privacy-preserving metadata protection.</div>
-</div>
 
-<div class="update-block">
-  <div class="update-date">Aug 23 2023</div>
-  <div>Started Ph.D. in Computer Science at <strong>Virginia Tech</strong>, co-advised by <a href="https://thanghoang.github.io" target="_blank">Dr. Thang Hoang</a> and <a href="https://taejoong.github.io" target="_blank">Dr. Taejoong Chung</a>.</div>
-</div>
+
 
 
 
