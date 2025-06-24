@@ -16,5 +16,5 @@ authors:
 
 📄 [Paper](http://rezwan-muid.github.io/files/AccuRevoke_Enhancing_Certificate_Revocation_with_Distributed_Cryptographic_Accumulators.pdf)  
 ⬇️ [Slide](http://rezwan-muid.github.io/files/accurevokeslide.pdf)  
-📚 [BibTeX](http://rezwan-muid.github.io/files/accurevoke.bib)
+📚 [BibTeX](http://rezwan-muid.github.io/files/accurevoke.bib)  
 💻 [Source Code](https://accurevoke.netsecurelab.org)
