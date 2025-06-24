@@ -5,7 +5,7 @@ category: manuscripts
 permlink: ""
 excerpt: ""
 date: 2025-05-12
-venue: '2025 IEEE Symposium on Security and Privacy (S&P)'
+venue: 'IEEE Symposium on Security and Privacy (S&P)'
 authors:
   - Munshi Rejwan Ala Muid
   - Taejoong Chung
