@@ -2,8 +2,7 @@
 title: "AccuRevoke: Enhancing Certificate Revocation with Distributed Cryptographic Accumulators"
 collection: publications
 category: manuscripts
-permalink: false
-redirect_from: false
+permalink: ""
 date: 2025-05-12
 venue: '2025 IEEE Symposium on Security and Privacy (S&P)'
 authors:
