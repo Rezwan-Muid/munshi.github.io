@@ -15,7 +15,7 @@ redirect_from:
 
 🔬 My research interests are solving real-world network security problems with fancy cryptographic tools.
 
-📚 I'm currently working with fancy crypto protocols like zero-knowledge proofs, multiparty computation, cryptographic accumulators, etc., to make Web PKI and Email PKI more secure and better.
+📚 I'm currently working with fancy crypto protocols like zero-knowledge proofs, multiparty computation, cryptographic accumulators, etc. to make Web PKI and Email PKI more secure and better.
 
 
 {% include news.html %}
