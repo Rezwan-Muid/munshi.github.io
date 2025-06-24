@@ -5,8 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-## 🎓 Education
-
 <div class="archive__item">
   <h2 class="archive__item-title">PhD in Computer Science</h2>
   <p><i>Virginia Tech, Blacksburg, VA, USA</i></p>
