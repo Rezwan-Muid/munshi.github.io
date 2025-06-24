@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a second year PhD student at Virginia Tech.
+👨🏻‍💻 I'm a second year PhD student at Virginia Tech co-advised by Dr. Thang Hoang and Dr. Taejoong Chung..
 
 🔬 My research interests are solving real-world network security problems with fancy cryptographic tools
 
