@@ -37,8 +37,9 @@ redirect_from:
 
 <div class="update-block">
   <div class="update-date">May 30 2025</div>
-  <div>Presented our paper <strong>AccuRevoke</strong> at <strong>IEEE S&P 2025</strong> in San Francisco, CA.</div>
+  <div>Presented our paper <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a627/26hiTQkK8bC" target="_blank"><strong>AccuRevoke</strong></a> at <strong>IEEE S&P 2025</strong> in San Francisco, CA.</div>
 </div>
+
 
 <div class="update-block">
   <div class="update-date">Apr 05 2025</div>
