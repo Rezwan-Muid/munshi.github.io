@@ -1,7 +1,8 @@
 ---
+title: "AccuRevoke: Enhancing Certificate Revocation with Distributed Cryptographic Accumulators"
 collection: publications
 category: manuscripts
-excerpt: ""
+excerpt: ""  # disables auto-link behavior
 date: 2025-05-12
 venue: '2025 IEEE Symposium on Security and Privacy (S&P)'
 authors:
