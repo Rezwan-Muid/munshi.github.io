@@ -9,7 +9,7 @@ venue: 'International Journal of Medical Engineering and Informatics, Vol. 16, N
 authors:
   - Munshi Rejwan Ala Muid
   - Afrin Jubaida
-  - Md. Mehedi Hasan Onkik
+  - Md. Mehedi Hasan Onik
   - Hamim Hamid
 ---
 **Authors:** Munshi Rejwan Ala Muid, Afrin Jubaida, Md. Mehedi Hasan Onik, Hamim Hamid 
