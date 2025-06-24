@@ -1,16 +1,20 @@
 ---
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Teaching Assistant"
 permalink: false
 excerpt: ""
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Virginia Tech, Blacksburg, VA, USA"
+date: 2023-08-01
+location: "Blacksburg, VA, USA"
 ---
 
-### Teaching experience 1
+### Graduate Teaching Assistant
 
-* **Type**: Undergraduate course  
-* **Venue**: University 1, Department  
-* **Location**: City, Country  
-* **Date**: Spring 2014
+* **Institution**: Virginia Tech, Blacksburg, VA, USA  
+* **Role**: Graduate Teaching Assistant  
+* **Period**: Aug 2023 – Present  
+* **Courses Conducted**:  
+  - Database Management Systems  
+  - Intermediate Software Design  
+  - Fundamentals of Information Security (Cryptography)  
+* **Responsibilities**: Grading, student mentorship, and course instruction
