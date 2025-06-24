@@ -43,7 +43,7 @@ redirect_from:
 
 <div class="update-block">
   <div class="update-date">Mar 10 2025</div>
-  <div>My paper <strong>AccuRevoke</strong> was accepted to <strong>IEEE Symposium on Security & Privacy 2025</strong>.</div>
+  <div>Our paper <strong>AccuRevoke</strong> was accepted to <strong>IEEE Symposium on Security & Privacy 2025</strong>.</div>
 </div>
 
 <div class="update-block">
