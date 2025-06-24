@@ -46,12 +46,18 @@
       </p>
     {% endif %}
 
-    {% if post.collection == 'teaching' %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i></p>
+    {% if post.collection == "teaching" %}
+      {% if post.type or post.venue %}
+        <p>
+          {% if post.type %}{{ post.type }}{% endif %}
+          {% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}
+        </p>
+      {% endif %}
       {% if post.semester %}
         <p><strong>Semesters:</strong> {{ post.semester }}</p>
       {% endif %}
     {% endif %}
+  
 
 
 
