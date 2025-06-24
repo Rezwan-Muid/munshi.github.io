@@ -10,12 +10,13 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a second year PhD student at Virginia Tech co-advised by Dr. Thang Hoang and Dr. Taejoong Chung..
+<!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
+👨🏻‍💻 I'm a second-year PhD student at Virginia Tech co-advised by [Dr. Thang Hoang](https://thanghoang.github.io) and [Dr. Taejoong Chung](https://taejoong.github.io).
 
-🔬 My research interests are solving real-world network security problems with fancy cryptographic tools
+🔬 My research interests are solving real-world network security problems with fancy cryptographic tools.
 
-📚 I'm currently working with fancy crypto protocols like - zero-knowledge proof, multiparty computation, cryptographic accumulators, etc to make Web PKI, Email PKI more secured and better.
+📚 I'm currently working with fancy crypto protocols like zero-knowledge proofs, multiparty computation, cryptographic accumulators, etc., to make Web PKI and Email PKI more secure and better.
+
 
 
 
