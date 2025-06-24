@@ -5,7 +5,7 @@ category: manuscripts
 permlink: ""
 excerpt: ""
 date: 2024-07-09
-venue: 'International Journal of Medical Engineering and Informatics'
+venue: 'International Journal of Medical Engineering and Informatics, Vol. 16, No. 4'
 authors:
   - Munshi Rejwan Ala Muid
   - Afrin Jubaida
