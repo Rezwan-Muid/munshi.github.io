@@ -7,8 +7,8 @@ author_profile: true
 
 <div class="archive__item">
   <h2 class="archive__item-title">Graduate Teaching/Research Assistant</h2>
-  <p><i>Virginia Tech, Blacksburg, VA, USA</i></p>
   <p><strong style="color:#2a7ae2;">Aug 2023 – Present</strong></p>
+  <p><i>Virginia Tech, Blacksburg, VA, USA</i></p>
 </div>
 
 <div class="archive__item">
@@ -26,7 +26,6 @@ author_profile: true
 
 <div class="archive__item">
   <h2 class="archive__item-title">On-campus Industrial Attachment (Cyber Security)</h2>
-  <p><i>Brain Station 23, Dhaka, Bangladesh</i></p>
   <p><strong style="color:#2a7ae2;">Nov 2019 – Dec 2019</strong></p>
   <p><strong>Supervisor:</strong> Shahee Mirza, Chief Cyber Operations Officer, Beetles Cyber Security Ltd, Bangladesh</p>
   <ul>
