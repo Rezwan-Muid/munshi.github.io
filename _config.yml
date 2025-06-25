@@ -84,7 +84,7 @@ author:
   avatar           : "profile_picture.jpg"
   bio              : "Applied Cryptography, Network Security"
   location         : "Blacksburg/ VA, USA"
-  employer:        : '<a href="https://www.vt.edu" target="_blank">Virginia Tech</a>'
+  employer         : "Vriginia Tech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pJkjbwoAAAAJ&hl=en"
   email            : "munshira@vt.edu"
