@@ -33,9 +33,3 @@ author_profile: true
     <li>Implemented MITRE ATT&CK Model strategies to maintain a 0% breach rate in simulated cyber attacks.</li>
   </ul>
 </div>
-
-
-Supervisor: Shahee Mirza, Chief Cyber Operations Officer , Beetles Cyber Security Lt, Bangladesh
-• Conducted vulnerability analysis using Nmap, Metsploit, Wireshark, Nessus, achieving a 98% threat
-identification rate.
-• Implemented MITRE ATT&CK Model strategies to a 0% breach rate in simulated cyber attacks
