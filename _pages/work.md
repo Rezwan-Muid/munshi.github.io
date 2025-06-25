@@ -12,7 +12,7 @@ author_profile: true
     border-bottom: 1px solid #ddd;
   }
   .archive__item-title {
-    color: #333333;
+    color: #66d9ef;
     margin-bottom: 0.5rem;
   }
 </style>
