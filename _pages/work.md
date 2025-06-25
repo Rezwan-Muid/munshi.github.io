@@ -5,6 +5,18 @@ permalink: /work/
 author_profile: true
 ---
 
+<style>
+  .archive__item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  .archive__item-title {
+    color: #2a7ae2;
+    margin-bottom: 0.5rem;
+  }
+</style>
+
 <div class="archive__item">
   <h2 class="archive__item-title">Graduate Teaching/Research Assistant</h2>
   <p><strong style="color:#2a7ae2;">Aug 2023 – Present</strong></p>
@@ -22,7 +34,6 @@ author_profile: true
     <li><strong>Part-time Lecturer</strong>, Ahsanullah University of Science and Technology, Bangladesh (Jul 2021 – Oct 2021)</li>
   </ul>
 </div>
-
 
 <div class="archive__item">
   <h2 class="archive__item-title">On-campus Industrial Attachment (Cyber Security)</h2>
