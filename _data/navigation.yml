@@ -6,9 +6,6 @@ main:
   - title: "Work Experience"
     url: /work/
 
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
 
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -25,6 +22,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "CV"
+    # url: /cv/
+    url: /files/Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
